@@ -1,2 +1,2 @@
 
-demo_lympic
+demo_olympic
